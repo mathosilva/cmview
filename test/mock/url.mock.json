@@ -1,0 +1,13 @@
+{
+        "QA":{
+                "raiz": "https://api.dev.cmvtech.com.br/cmview/api",
+                "newCostumer": "/setup/newCustomerAndUser"
+        },
+        "PROD":{
+                "raiz": "https://api.cmvtech.com.br/cmview/api",
+                "newCostumer": "/setup/newCustomerAndUser"
+        }
+
+}
+
+    

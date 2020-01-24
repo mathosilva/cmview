@@ -1,0 +1,33 @@
+{
+    "novo": {
+        "customer" : {
+            "cnpj":"",
+            "companyName":"AUTOMATION LTDA",
+            "email":"alexandresilva@fasdacamacraa.com.br",
+            "stateRegistration":"SP",
+            "tradingName":"TBJ",
+            "address":"Rua bella cintra",
+            "state":"São Paulo",
+            "district":"São Paulo",
+            "city":"Sao paulo",
+            "country":"Brazil",
+            "zipCode":"01106090",
+            "contactName":"Alexandre dev",
+            "cnpjWs":{"teste":"teste"},	
+            "paymentData":{"teste":"teste"}
+        }, 
+        "user":{
+            "firstName": "Alexandre",
+            "lastName": "Borges",
+            "username": "",
+            "password": "102030",
+            "email": "",
+            "phone": "11982823015"
+        }
+    },
+    "exist": {
+        "cnpj": "24.441.533/0002-22",
+        "username": "testecert3",
+		"email": "alexandraaaaaesawaaaasasdasddaaaaeae.silva@fcamara.com.br"
+    }
+}

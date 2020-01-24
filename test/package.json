@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --config ./config/jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpf_cnpj": "^0.2.0",
+    "faker": "^4.1.0",
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2"
+  }
+}
