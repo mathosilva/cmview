@@ -1,10 +1,10 @@
 {
     "dataLogin":{
-        "user":"demo",
-        "password":"102030"
+        "user":"",
+        "password":""
     },
     "dataRecupera": {
-        "email":"alexandraaaaaesawaaaasasdasddaaaaeae.silva@fcamara.com.br",
+        "email":"",
         "invalidmail":"vdgvfuiwgfuy@gmail.com.br"
     }
 }
